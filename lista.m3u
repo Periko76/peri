@@ -550,7 +550,7 @@ https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="13. M+ INFORMACION", Prueba 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/no.png" group-title="13. M+ INFORMACION", Prueba LigaDeCampeones iptv
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
@@ -637,5 +637,13 @@ https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
 
-#EXTINF:-1 PRUEBAS 
-http://jabawalkies.club:8080/live/spainexch880io/St3TdgUcca/47476.m3u8
+#EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Cine y Series",Prueba Liga iptv
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1b76612737ad4d678376f6e46c8104a3":"4b84e6a343843589e0ed63d4e3a8823e"}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323626.m3u8
+
+
+
