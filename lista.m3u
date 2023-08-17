@@ -281,7 +281,7 @@ https://eurosport2-dash-movistarplus.emisiondof6.com/dash/eurosport2.isml/manife
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://comedycentral-dash-movistarplus.emisiondof6.com/dash/comedycentral.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_logo_500_-1_c0eb.png" group-title="Entretenimiento",Telecinco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/a.png" group-title="Entretenimiento",Eleven2 Liga en Portugues
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lzFXRLO3CnSvdGzdYaKZ2g", "kid":"gJ7XbyZWQdm8cxNR1qBsQA" } ], "type":"temporary" }
@@ -292,10 +292,10 @@ https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="Entretenimiento",La Sexta
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Iz+NjrzXOBewPNkJNsIjAw", "kid":"gc1mtX8iQpuZliICVjdO1A" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"82f8e2a17dac44c0a18f660479349c59":"1b144f73e6fefe91cd05f850e2b589d0"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009901859567317142/unknown.png" group-title="Entretenimiento",M+ Ellas #V
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
