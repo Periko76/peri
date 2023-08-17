@@ -551,12 +551,11 @@ https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="13. M+ INFORMACION", 24 Horas
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={6e73d7c4f4b24a19929cb5e4bfd23524:80cc5ee67dfbdb57e3c3a4308173d48b}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://24horas-dash-movistarplus.emisiondof6.com/dash/24horasor.isml/manifest.mpd
+http://jabawalkies.club:8080/live/spainexch880io/St3TdgUcca/47476.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" group-title="14. M+ AUTONOMICOS", Canal Sur Andalucía
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
