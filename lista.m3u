@@ -89,7 +89,7 @@ https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.m
 https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899176915636254/unknown.png" group-title="Deportes",Movistar La Liga Orange
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899176915636254/unknown.png" group-title="Deportes",Movistar La Liga Orange sólo partidos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"850c1a430396ce4255f3902bf1f4e897":"295b1db977f94dfbba012073901a019b"}
@@ -233,7 +233,7 @@ https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manife
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701" group-title="Deportes",LaLiga Smartbank TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701" group-title="Deportes",LaLiga Smartbank TV sólo partidos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"850c1a430396ce4255f3902bf1f4e897":"295b1db977f94dfbba012073901a019b"}
