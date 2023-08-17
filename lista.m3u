@@ -638,3 +638,5 @@ https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
 
+#EXTINF:-1 PRUEBAS 
+http://jabawalkies.club:8080/live/spainexch880io/St3TdgUcca/47476.m3u8
