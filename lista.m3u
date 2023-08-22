@@ -83,7 +83,7 @@ https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900374615932938/unknown.png?width=1440&height=505" group-title="Deportes",Movistar La Liga TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7nmEzGmjFSwxJZ+uFr+Www", "kid":"JV+HkVcUTOqSObPIPf9Rgg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={f4ffdb4c283a4967951a14b83cd17e22":"da0fa7897990f3252fcd16cafa614a94"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
@@ -550,12 +550,13 @@ https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/unknown.png" group-title="13. M+ INFORMACION", Prueba LigaDeCampeones iptv
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/unknown.png" group-title="13. M+ INFORMACION", Movistar Liga de Campeones 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0cc9c1da4e004c62a3341b8e6e600aed":"71f8bfd2c296118faf1132f638a8894a"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://jabawalkies.club:8080/live/spainexch880io/St3TdgUcca/46868.m3u8
+https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" group-title="14. M+ AUTONOMICOS", Canal Sur Andalucía
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
