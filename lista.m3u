@@ -665,7 +665,7 @@ http://darg.site:2082/live/Joseveinew/5HkYPNWbfdfSnew/178080.m3u8
 #EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Deportes",Vamos iptv
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"2e0bb7fb0aa441758a91e758bf30d829":"e0b47b64161c8f96933d4e828b0e8a7e"}
+#KODIPROP:inputstream.adaptive.license_key={"77b7e5e8b6354bf8925af0ddd24afebd":"635ed494d990466029b9681c7d981143"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://jabawalkies.club:8080/live/spainexch880io/St3TdgUcca/46693.m3u8
+https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
