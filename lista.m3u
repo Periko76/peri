@@ -236,10 +236,10 @@ https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701" group-title="Deportes",LaLiga Smartbank TV sólo partidos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"850c1a430396ce4255f3902bf1f4e897":"295b1db977f94dfbba012073901a019b"}
+#KODIPROP:inputstream.adaptive.license_key={"3424056a1fa446ef9f91b39c58d52231":"57893b8e1af56f70a6c787412d8c826b"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/HiFYKsFlHFS9qJRzJ5Yt-g/1692531172///165/cmaf/r12_laligasmartbank/dash_high.mpd
+https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Deportes",Teledeporte
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
