@@ -693,3 +693,11 @@ https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/mani
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Deportes",Movistar Liga de Campeones 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"68cdb7d1cad64977a5abd94a214b3e31":"1b227005d4c3efd148780296bf4d75fe"}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://04campeones-dash-movistarplus.emisiondof6.com/dash/04campeones.isml/manifest.mpd
