@@ -1,4 +1,4 @@
-  #EXTM3U
+8  #EXTM3U
   
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="01. M+ GENERALISTAS",Fox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -83,7 +83,7 @@ https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900374615932938/unknown.png?width=1440&height=505" group-title="Deportes",Movistar La Liga TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={f4ffdb4c283a4967951a14b83cd17e22":"da0fa7897990f3252fcd16cafa614a94"}
+#KODIPROP:inputstream.adaptive.license_key={"f4ffdb4c283a4967951a14b83cd17e22":"da0fa7897990f3252fcd16cafa614a94"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
