@@ -446,7 +446,7 @@ https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="10. M+ ESTILO DE VIDA", Amc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/null.png" group-title="10. M+ ESTILO DE VIDA", Amc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4731f1896bb14771afbd1c71c22f2aa2":"b1fa646ebe218d19658b3e313a498593"}
