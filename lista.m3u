@@ -364,21 +364,13 @@ https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/800px-AXN_Logo.PNG" group-title="Deportes",Axn Movies 
+#EXTINF:-1 tvg-id=""unknown.png" group-title="Deportes",Axn Movies 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3627b1398b714e0ba2d950ac238ae72d":"35028469e77902718cff04c81ae7bea0"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134" group-title="Deportes",Nautical Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GeqGfP4vZmgEBTatKyM/IA", "kid":"nJamp80eRemJqhPonahA+w" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://nauticalch-dash-movistarplus.emisiondof6.com/dash/nauticalch.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/640px-Ubeat.png" group-title="Deportes",Ubeat
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -446,7 +438,7 @@ https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal" group-title="10. M+ ESTILO DE VIDA", Amc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unknown.png" group-title="10. M+ ESTILO DE VIDA", Amc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4731f1896bb14771afbd1c71c22f2aa2":"b1fa646ebe218d19658b3e313a498593"}
@@ -614,7 +606,7 @@ https://inttelemadrid-dash-movistarplus.emisiondof6.com/dash/inttelemadrid.isml/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://calle13-dash-movistarplus.emisiondof6.com/dash/calle13.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod.roams.es/images/logos/providers/es_ES_vod/movistar-series/icon/movistar-series_principal.svg" group-title="Cine y Series",M+ Series
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unknown.png" group-title="Cine y Series",M+ Series
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"09f31fd3fc584029b310e8e4891e194c":"7aed71dceea44af72d944c3b57b009ae"}
