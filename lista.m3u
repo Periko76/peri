@@ -726,7 +726,7 @@ https://msuspense-dash-movistarplus.emisiondof6.com/dash/msuspense.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png" group-title="Deportes",Dazn Womens
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854/unknown.png" group-title="Deportes",Dazn Womens
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"cfb5e2b73bef4f3c878f25ab86a7451f":"0d6712bf2a84edcc93d001a9613f6fec"}
