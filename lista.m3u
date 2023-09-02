@@ -733,3 +733,12 @@ https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-503/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701" group-title="Deportes",LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2fc77c5e033f45ca874fdc0f28e79200":"31052a3d0c5cd70934e5139ae5790235"}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
+
