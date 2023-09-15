@@ -748,3 +748,11 @@ https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646093/unknown.png?width=659&height=701" group-title="Deportes",M+ LaLiga Tv 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e5fad66f199041b1a52dc4941ef958e0":"3ada35c2bdf9cd238bbdd704f7807946"}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
+
