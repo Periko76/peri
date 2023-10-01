@@ -43,10 +43,10 @@ https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-043/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png" group-title="Deportes",Dazn 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={be55ca2023d646d2909637a6f344e172:a654880f5535ef3e6644a41cf1f8f25c}
+#KODIPROP:inputstream.adaptive.license_key={"82f8e2a17dac44c0a18f660479349c59":"1b144f73e6fefe91cd05f850e2b589d0"}
 #EXTVLCOPT:http-referer=https://www.dazn.com/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://01dazn-dash-movistarplus.emisiondof6.com/dash/01dazn.isml/manifest.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845925428068392/unknown.png" group-title="Deportes",Dazn 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
