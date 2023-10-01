@@ -625,13 +625,13 @@ https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
 
-#EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Cine y Series",Prueba Liga iptv
+#EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Cine y Series",Somos
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1b76612737ad4d678376f6e46c8104a3":"4b84e6a343843589e0ed63d4e3a8823e"}
+#KODIPROP:inputstream.adaptive.license_key={"de7667d3af3440bbb359a86f7aa2151b":"4819c2c561a918c798958efb8828d3d5"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323626.m3u8
+https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Deportes",M+ LaLiga tv Uhd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
