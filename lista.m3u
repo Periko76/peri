@@ -540,7 +540,7 @@ https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unknown.png" group-title="13. M+ INFORMACION", M+ Liga de Campeones 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0cc9c1da4e004c62a3341b8e6e600aed":"71f8bfd2c296118faf1132f638a8894a"}
+#KODIPROP:inputstream.adaptive.license_key={"c067cb8d7357499f94599a607b85f9d3":"da6ae5a046a56ee684fa8359dbe0c1fd"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
