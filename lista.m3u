@@ -786,7 +786,7 @@ https://tvup-live.secure.footprint.net/mundotoros/mundotoros.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/wordmark-orange.svg/1200px-wordmark-orange.png" group-title="01. M+ GENERALISTAS",M+ LaLiga Tv 🍊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo" group-title="01. M+ GENERALISTAS",M+ LaLiga Tv 🍊
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"850c1a430396ce4255f3902bf1f4e897":"295b1db977f94dfbba012073901a019b"}
