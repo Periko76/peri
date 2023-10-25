@@ -789,7 +789,7 @@ https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo" group-title="01. M+ GENERALISTAS",M+ Liga Campeones  Hbomax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"01011c633803bbde3839fc5f14598c24":"188d9106f77cc9cfc2a4481ebc512348"}
+#KODIPROP:inputstream.adaptive.license_key={"0101d02864aed1fd6f0452a2ec0a8f42":"8d15e0102ab41822b9b9df43eef8f096"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/35992/master.mpd
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031617/dash/cenc/36212/master.mpd
