@@ -729,7 +729,7 @@ https://cutv-wp21.cdn.telefonica.com/5120/vxfmt=dp/Manifest.mpd?device_profile=D
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646093/unknown.png?width=659&height=701" group-title="Deportes",Movistar Plus+2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646093/unknown.png?width=659&height=701" group-title="Deportes",Movistar Plus+ 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={4d4ed9f45b1640968a9569d48cb68d64:04d99b897cc16983950a5f4b0c72d698}
