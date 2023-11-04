@@ -60,7 +60,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web
 #EXTINF:-1 ch-number="196" , DAZN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b4641842b5824390a7fe8d4ec781031d&key=cd156815ef05dcc9fcc3626e7d52db79
-http://dazn3-pry-movistarplus.emisiondof6.com/index.isml/Manifest
+http://dazn3-pry-movistarplus.emisiondof6.com/index.isml/Manifest.mpd
 
 #EXTINF:-1 ch-number="197" , DAZN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
