@@ -801,7 +801,7 @@ https://feftv-live-pathprotection.secure.footprint.net/restreamer/feftv_client/g
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/RESIST" group-title="Movistar" tvg-id="RESIST",La Resistencia
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/RESIST" group-title="Movistar" tvg-id="RESIST",La Resistencia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=173d991915f24a11b67acd0c75914370:
