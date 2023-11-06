@@ -305,13 +305,10 @@ https://ellasv-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://o.remove.bg/downloads/79f7d4d3-f071-466b-8ac0-9f5d767613f5/image-removebg-preview.png" group-title="Cine y Series",M+ Pop up
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T0RVhmTj78GBG3zoi+tZeg", "kid":"4+CwRxYwSX64H8F/OaUiGA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TERROR" ch-number="15" , M+ Terror
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e3e0b0471630497eb81fc17f39a52218&key=4f44558664e3efc1811b7ce88beb597a
+https://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",M+ Clásicos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -724,13 +721,10 @@ https://cutv-wp21.cdn.telefonica.com/5120/vxfmt=dp/Manifest.mpd?device_profile=D
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646093/unknown.png?width=659&height=701" group-title="Deportes",Movistar Plus+ 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={4d4ed9f45b1640968a9569d48cb68d64:04d99b897cc16983950a5f4b0c72d698}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
+#EXTINF:-1 ch-number="176"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS2" tvg-group="ESPAÑA", Movistar Plus+ 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4ed9f45b1640968a9569d48cb68d64:04d99b897cc16983950a5f4b0c72d698
+https://2plus-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAR4AAACwCAMAAADudvHOAAAAvVBMVEX///8exD0BAQEAAAAAwSs3yVHD7cny8vJ9fX0AwS1RUVHP8NTe3t4Twzfu7u6YmJi66sFvb29j0nTY9N2C2o+f4qm7u7tcXFykpKTa8tz4+Pitra3MzMz6/vu06LxBQUFISEhmZmbv+vGFhYXm5ua2trbn+OqV36Atx0l72Ils1HxQzmQZGRnV1dU2NjZb0G2n5LBGzFwmJibFxcUXFxeQkJAtLS1q03oAvxvK789ra2uM3Zil5K6A2o6Y4KNXeVJWAAAOvUlEQVR4nO2deVviOhTGgdSlCriOIiDg4DaO6IzbuMyd7/+xLm2TZjvnpLRptcr7x30c6JL8mpOzJOU2GqQum4jCH+Dx30LshGazsyuP+7lSsZrnWBfXWUuIsTUah6GrDtbVFfD4vQCn02weywNXsAuXpaAEPKtob4Mj6PhjqtfBi3Lk78rxgA0uhOc7frN/4An/EaYV7qtHfgY8f1DT+g0ejw82yxqrNy7veEZob0PQkI+pLj/rp9Qfz3e0B8EIPOGWmnj+6sfWHw/a2/AKPP4XZVq3xsG1x0P09hg6/pyYlpud758MzzlK5/kFPOEnZVrb5tF1x4P2NnwDj78gTAuIsKvHs+cTzz+st3nC5UvbGuuN5wj36fAgvSS6+7xpH19vPGjrg2/g8T+ocBmyxlrjecN6aznoRKvPeLtga1wphQEhj3j20N5aDjoWHkA2sVS5xniO0Xs8r4In7FI+/Rd4So3xoBOJj3C59niIvNtDuAzg6QTZFN0n1GXeDv/aFx6iyAM46AZdurHDZRtP53Z1e3X15WXTpb9hM/y3rcos3YZ/ta9/KV/7woNOJFi4TFWXYWs08MBVa1svgdlJa5bUh7eaGHnCgxZ5kBIY7uXs5iryg8d4lmqtP5J/PN8XLYGhSxlN1Boj5cVjxOwjbeiGRh3KPx40E0Uc9MLhMldePMYz0usK5rfffeP5i5oWEi5TPh22xkSe8Oh+wYzPfePBizwhHC7jcKiVpYY342rsd4gL+TYu1EcHcLhMVpdha+TyNDVrw9dq5J5fPGgmiqwY5wmXufLiMQlo9mP6yVWveDbRiQeoZzUoU2zi4TJXTjyhVU+RA96e6755DQvRklaecBm2xlQqHjR2NDTHY0Y28xGfNsJ2lKrtF8aDrgCHF+DxC1aXdeXEYw9KaUCBuUSg1VmK4nnBwl9P1WVdakq6sp/qhznozn/8l34ZrWlbSdxx2uzAvIeWABTEgxd5YAdNhsvPaFuEtIJGJ5VVqz16ll9Gg8G2LlGWtX3BrcfRg+7kyREuB7A1ap2Cz7Sm3iPzNpZ1icnHOlWvYRbDs416LetxxcodLnNlxmPex7Iu0RKr/3qXCuEhqsVwuEyVwODkVVduPNbjSpti3mLX3+hBw1+knpU/XObKjccO/pL4ovPH+PhYdzVF8KBFnjzhMmyNhgrgMR9YUo8zixmNbX2AF8BDhL/gBcnqMmyNpvLjscKkJNi3/KtR9SyABy/y+A+XufLjsawrCUnM4OzYODE/HtRUkHoWmrk2M4TLXEXwmA8gikk6+8aHI6ORufGgASHioNHMNVYGNJEK4LGsK/LgFjNzRSE3nn/YYEDqWRQcvBGGCuBphoZ1Ra4d+swPHrSrpYTLXEXwWL5rt2NlFKZt5caDbeXxXV3WVQSPFeKMgtDY+GoHZnnx/EJGQ47qcpZwmasIHivvOg6fzTUKy7fmxfMGe+mywmWuQnistl2ZHsGyrdx44FQdqXAWD5e5io0e806bZmvtp+gZz1ukfUVvbxcX1NtalvMoD49d1TD6DmTMefH8B5tLJ+zoCp8vR9SunIzhshc86MYPLtu2cu9rJkeEcvmVER4hNbOHywIP/FCyjh6HHQMzZN7R80IGweLil9t0dbmzsohpFcVjVzU0HQNl89xhoXsLbXA5IrrkuHs5eEjr2gZGuf+kQodDvuqHvB2IC0n6s+KxIkNNkLfJn5JSaw7xnBOLMsIFwmU/eGjrgp5j/oIGkSekcIiFnqZjM0Y5eAg/CT7IAuUwLMsUZhUJfa+0ib4dSKkoHmph/gd07SIvLIGr60FT6TX+XumC4TJXUTzEtkX4pwmK4DmyPWHYUTMocjMG0VJUGB4z80bx4PsW4fij0EKOOTjCpt5OsroMvx1IC7lg52p79WXvSAry0cmRt39/jcSx58nBe5svq9sjOEsq9jag5rXD5jd9QJDVZbPKm0lY9b8T2jvhsSNDcaz8K/obqUAUW2OX7Q07F4a1UNVlZP+GS+iSflkqiEfUueZwrDoYuRkDHbSkqL30pajo/p7NaHoOg3/2PEtWlxcNl8XdsmR6PlV4d9jF3G5Ns4pEvur3Mx8der2jDBXfW/gbgkNXlx0bLAllrKN4k98XtaXIV/0WD5eFyCSlBJWEhwqXkbcDs4kqW5egcvDQmzFyhMtS1K9K+Fc5eKhwGXp9fwGR7y97Vyl4vlGmRbyPlEmb5JtynlUGHioTzRkuq6Lg1wEPZVrIj2ksJCrg9I0HnQly40FffmuiP6axoKqbnv3joUITx/tImW9B/XLLB8dDhjy5w2Vd5++PZ4cpWgAPMfJdq7jZtfms/W5Bxh9EWFx4FDI7UNTP3HAiLikULhtaHSXaHokfL1gtRZ6Geyq8Cu5+H+kLCF/+6njw6bUXsAtEDJ6rXUB//vzJn8DXT8TiaQdQ+Lz7pQYVMfcAwIKvBWehjLoT3C64geUTiNqFqsP5Way0UU+hL1Au4cTK8IvlXxeO6/8bEMP5nWeB/bNon67HBL8X2qz7+UTVG4KVLw4H3Pgj4Fx6S9prLGQ1KlhZwol1Be0RXvlKyRUp+//rsoSjylgnVXerLtXQN7Bou1WXipX+zNNy5IBKctPgcoGXIb+SotWoOZxlgRnRUdBcwiG0t4Sz1FJLLbXUUksttdRSn0r9WTv7Lq8vprOTeJPg3Xr7vVvyATWI0MR7TBk77L53az6YuhMmd+HOEc3eu0EfSjOm0lny0XWvw4n5LO1LqG3RmfOZvHerPowebDpzPr33blZZavemh+PDrfuMIcwORKfFWp8zAurdpe85PGbp4RAwrZjPVulNrV73d9IJMfaQIcK7gem02LXrzL4qH40vXT3TQR+4zjhABs/83HvHqY/qGzl1CLV7Zl8ZO3Oc8oTQmZ974jh1S32fqwZ4gJHgGj92yKOc6rCYmuE5hbrqCIAnKB23ZdYMzwbioYkX9aCIUJ65Q9+vXniwSZYd4udMCTrzPtM3rBeeO6yrRABMDZ75iafkDWuFB/XQ87Zj3bwn6bQck0+t8FCT7AQ559CBZ528Y53wdAk7YYh5UeeQWBPVCU+PnmRB77VF03HNzXXCQ9hWC4uA0cmcpipUIzx9l50AsywRMYuzhtQ9a4TH4YPAgWCHkYzpRWc6Y6sRHjK+iztgmZcVMTN23bsfjNUli0fqnhoeOkTCdDCINU/uZo+Tm5vJyQC8Tv9gfWP8dDM53NIzpH5yemwZ7enk5mmCpIlwQqH1fWCccmLRmZqf62nF2smOprGKR//uNWMtbZJUQ/rtm7QysmEZ9NpUKZw8qU64m3x2Mwf1mvwJryD0Wy481gM2B4+sfcgZW89HusyQdraujWx4NpKVxzO1hsefUqqeeqfob8kviUzm8cdMrGHCvgRM1k0+D9rIG5uDJ30sA4lnYuBx3gTk6sRjkNZOPrTngHRoCjxr/BgMj2tmTk4eK2eYcZIyN8lxxZ6qwNNiBiQ1Wh+LT+X3LJ0SOZ6NSfoNjGeQqeFskprmmWVaytCS7bxTB1xpeJLOSwBKHXdHfDL3G9fy+wMNT/Rf8leWHrM1fD4uIwfcH55YdNQZL518dHssEc+8Yaf9tdm66L8YtXwZhbHxfbfRP+2lfLQWxXTGvfbsbAOemuG1KogPu55MWsy2Z/VqN/KZVoOH3XUNHHz4PPF/ptbEnxx/ml1pb6ZfBp9CJkDQmrHmiCcSjzpYS5x70tvMOJ8T/q/kaq/pCXwS5qtMXdPaEGkZF9R/F7M+eLWq8CiWvcOBxf+YmvSiSTO5wUzD41hU0SI0cHzQvdFDjZtq8WgPZ8Zn27ZsiN66ZEdAMtzF3OOK2SUexna6/aErFzc6Y1xeTs2tKuYeLeDo8+7HsR9T/hZKfi0xuYHA4wpCpXElh/avF+FjdibdssGuDTxo1GyGzQvh0UZH8qTjqbbNx4Zm+Yl1JUgFHnJebmjxQ4I6Sxgtu6ZPbLI4EmUzBB41eS2SVGiJ76GcjobqPCSUOLfE9Yu4x7WX7VDi4S7SWk8m6BhFQYmWrqYqgXfejD3Bo7nNEzm3DFUvJcQnpzhgFXhcGyDWbXPAdl4AeIyKu5JUkDbiod4DjB7Fmc3g0RN/GI9rgcd1m54cPcLXzLIOH2bWBIdyIiPXSb3h0R4P91ZR+aBr+3XR1WRcczx3rtsMJJ50lK9nxoNdzLEFyhse1XrW1OmEz7za1MgDo/jBcTzaDAlpyOx2rmUcPmZ9Rel26cVUHvcoE9cBHzHd9Gs96OurzorjGTcckiGJ4uRc6zSiZ2Z5ThZmSy/F8/5rBYz4k8ReuCGpF39U8WXFo/hiZSxkCn5Yy7zYVA7FshdyRM6VPoYtpgbKIq55Sl2TyFknyvduPEqapFSw8GV3FY+1Urwj8ZD39IZHZug9po8XXvdm41O9R/z4zHikZ1er0WbBFMRjbSF8zebXPeKZn79xNhz2bkTvxY1FCMbY+v1seLYh/jlJvs6M50ziUeb5DM4d2L8sRw+99dsjnpYWhitXkwUw5YB0Ls+Mpw3HKuZiDYDHrgVM01bSPwDvce7Rm6Q6zCm0X1JMVZnxKPVhdcJwJ9lAIUnUoS2Pb8ifY3/Q0zctw9yyct+HdCLPjudVDh/VG7s3YQD5yl1S23bd1R+e9ljaDbszoonZk2p2jE1li3mSnAGPEupqrsjh3MG04XQc1yRciZ4/PGvxGIn1BMx39ydpJeB6qua+cpXUJRkj6xkuvQ0DqwUMe1tkRBjLw674FM/cZ0+n060zJPHvtweP0+njgfl1O1aWaoHM0PWmkhvkCr22NespWvh/fhdLwVOyZPVFTySpnT/v/lJkdXiUIpZeqqPeC3Bs7C5d1eGRIbJ5O7SyYWxKeAdViGcAu/YGukj47qZVKR7FdxlVrP4GZF92JaN6VYhHyZWsVHIKrKo/5auee1WVeNIEFHDXw7G68BLFVx/iTeMq8aQhDrjZf7hzLYO4V+dLlNWoUjzpkjM8qfTbZ7311/Wtwcf5FZpx8rQq+smFexZvsnK9BPpx1J7Fqux28+Tt4UO8gP4/5/JB0XEETaoAAAAASUVORK5CYII=" group-title="Deportes",M+ LaLiga Tv 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -800,3 +794,44 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=173d991915f24a11b67acd0c75914370&key=4ef8245f720013854f096cfffd8e1028
 https://resistencia-dash-movistarplus.emisiondof6.com/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.torole.tv/static/media/logo.edf9abdb69b97e74421a.png" ch-number="79" , TorOlé
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c665d716114f89d3162d0337be3a66d4:fb5d7ee6db86bb87b0312861b8252582
+https://ott.zapitv.com/live/eds_c2/torole/dash_live_enc/torole.mpd
+
+#EXTINF:-1 ch-number="30" tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20230915_151833.png" ,GH VIP 24H Señal PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
+https://directos.mediaset.es/oripremium05/live/premium05/mpd-cenc/mpd-cenc.isml/.mpd
+
+#EXTINF:-1 ch-number="441" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAUHD",M+ Liga de Campeones UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=691b095fbafe429180e34b75872b32ec:b5b3348c2e53eaf3981dccb8cb6e3fc8
+https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.isml/manifestuhd.mpd
+
+#EXTINF:-1,7 TV Región Murcia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xlCcfU+oXqSYm0WAz6G92g","k":"97wiCo4Rw8nyfI2f2/rAWQ"},{"kty":"oct","kid":"TV4x5smvVQGVtvf369Rhqw","k":"Go3CUWuTJWSUHe2nA6sdhw"},{"kty":"oct","kid":"qyA8YpfoWm607MboNhHolg","k":"FdBIkvRAZfwvgRSey4L6fQ"}]}
+https://tvup-gra-livegeo.secure2.footprint.net/7rmhd/7rmhd.mpd
+
+#EXTINF:-1 ch-number="90" , AMC Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3048d6cc539b8a8b90d74992fb4e197:4e494e4d179abc3d3f10073b21ac8630
+https://cache4.zapitv.com/live/eds_c2/crimen/dash_live_enc/crimen.mpd
+
+#EXTINF:-1 ch-number="91" , BuenViaje
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05eeec445f9bcfaef03c36965fce16d7:a3b3b1d585f5d0472336a17824d5da22
+https://ott.zapitv.com/live/eds_c2/BUENVIAJE/dash_live_enc/BUENVIAJE.mpd
+
+#EXTINF:-1,Betis TV
+https://streamer.zapitv.com/betis/index.mpd
+
+#EXTINF:-1,Sevilla FC Televisión
+https://streamer.zapitv.com/sevillafc/index.mpd
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" ch-number="68" , M+ Golf 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
+https://2golf-dash-movistarplus.emisiondof6.com/manifest.mpd
