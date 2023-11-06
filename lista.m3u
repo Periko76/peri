@@ -805,4 +805,4 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dazn.json
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-043/stream.mpd
