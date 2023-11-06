@@ -794,7 +794,7 @@ https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
 https://feftv-live-pathprotection.secure.footprint.net/restreamer/feftv_client/gpu-a-c0-2/restreamer/rtmp/hls/7830207c-a6ce-4dd2-8357-ebd39851a9a3/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo.png" group-title="Deportes",Astro Bein 4K
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"22fbef1c1cd725e9397ec16455f08210":"7aea43cd93c24aa9834ecb4984f7fd5a"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
@@ -805,4 +805,6 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=173d991915f24a11b67acd0c75914370:
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
