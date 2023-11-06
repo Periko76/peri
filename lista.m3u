@@ -800,3 +800,8 @@ https://feftv-live-pathprotection.secure.footprint.net/restreamer/feftv_client/g
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" tvg-group="DAZN", DAZN laliga prueba 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dazn.json
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
