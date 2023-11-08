@@ -835,3 +835,29 @@ https://streamer.zapitv.com/sevillafc/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
 https://2golf-dash-movistarplus.emisiondof6.com/manifest.mpd
+
+#EXTINF:-1 ch-number="51" , Atreseries
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14baf540c86b48e4954459ba0e76dea7&key=2bb673f117ec9f14837b26bbe61aace6
+https://a3series-dash-movistarplus.emisiondof6.com/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20231026_211424-removebg-preview.png",Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+
+#EXTINF:-1,Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1,Clásicos atresplayer
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+
+#EXTINF:-1,Multicine atresplayer
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+
+#EXTINF:-1,Comedia atresplayer
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+
+#EXTINF:-1,Inquietos atresplayer
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+
+#EXTINF:-1,ATRESplayer PREMIUM
+https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
