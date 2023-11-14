@@ -877,3 +877,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 DLYEGqnpa+twVAhT1jA9gB1ZEMnAUzFAtEt/8DCclW0OqtvinzeudtFYWG+bU6XexLdguDVTSlUrTi0aiJ9Bi7t2cYQhiBEPJaH+lzMo71obx0aebJnEjvR1zIq5Jk2kRjTRlP1Mnn+evd/bNkmIm+jOTAULF6Ta0T5PpZB3dWsWBFTQrpqB4bJeYzl3xreeiDoJJSrZXhRD+muwotnnNlSvbpjIGiXy3IPkT8Tr5TVVejvDun5+RIvi9Nfo2aVrKs6EnAhr/e99Cr+y3MGfk94Smonmyr4F1kp1G9wUTGWQgZAT58AfWpLNbp9PWnGFqAJZ+Q==
+
+#EXTINF:-1,DAZN BAR 1
+http://netse.es:8080/play/eSoSxuEQhTCqMmpm7_dAWhji_eY60DPXjMi8YNIA610
+
+#EXTINF:-1,DAZN BAR 2
+http://netse.es:8080/play/eSoSxuEQhTCqMmpm7_dAWqgV9ts-MWkXSMgAGOsZ0uQ
