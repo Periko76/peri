@@ -414,13 +414,10 @@ https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tivify.es/wp-content/uploads/2021/09/Logo-Original-Warner-tv.png" group-title="10. M+ ESTILO DE VIDA", Warner tv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"cdcc9285b9b04270977a9278bd6b1168":"fdc92cc2ba77e0c106f98a3143fa4f57"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
+#EXTINF:-1 ch-number="40" , Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
+https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unknown.png" group-title="10. M+ ESTILO DE VIDA", Amc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
