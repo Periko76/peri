@@ -229,7 +229,7 @@ https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manife
 https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="69" ,LaLiga TV Hypermotion
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3424056a1fa446ef9f91b39c58d52231":"57893b8e1af56f70a6c787412d8c826b"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
