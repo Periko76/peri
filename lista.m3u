@@ -252,21 +252,21 @@ https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes",Eurosport 1
+#EXTINF:-1 ch-number="69" , Eurosport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"82zUEGHuh0EbQduew62Hlg", "kid":"MyGLUh8ORHqTWtyZFVTGaw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"82f8e2a17dac44c0a18f660479349c59":"1b144f73e6fefe91cd05f850e2b589d0"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://eurosport1-dash-movistarplus.emisiondof6.com/dash/eurosport1.isml/manifest.mpd
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-032/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Deportes",Eurosport 2
+#EXTINF:-1 ch-number="69" , Eurosport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZkRsyba5xpQ8awn6vvV78Q", "kid":"Fv5a55RrQZeyQRyf/2HSKA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"82f8e2a17dac44c0a18f660479349c59":"1b144f73e6fefe91cd05f850e2b589d0"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://eurosport2-dash-movistarplus.emisiondof6.com/dash/eurosport2.isml/manifest.mpd
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-031/stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ935rxqfQWhe6AY1BeZGOjd-2mZo4EYxDqiQ&usqp=CAU" group-title="Entretenimiento",Comedy Central
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
