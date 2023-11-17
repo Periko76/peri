@@ -1,13 +1,10 @@
 
 #EXTM3U
   
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="01. M+ GENERALISTAS",Fox
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"45e41639a0b9453f9b260cb9d0326369":"f0358c680ffc46904007de461388df28"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
+#EXTINF:-1 ch-number="38" , Fox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G4tFLHsRVpKDiQtCi4Czbw","k":"k+CKdSJZVFTMoP/Y74D2FA"},{"kty":"oct","kid":"zoHissNIWBiLpc5EgNQN0Q","k":"BZ3VYfr2DgoJbP0qLLlAbQ"},{"kty":"oct","kid":"qgfJsJ0HW/yoTa8ar4CdCw","k":"kAa8JqLL+cau6Smqt8KG1w"}]}
+https://tvup-gra-livegeo.secure2.footprint.net/fox6/fox6.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="01. M+ GENERALISTAS", Syfy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -515,13 +512,10 @@ https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="12. M+ MUSICA",Canal Hollywood Hd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"860293580cdc418db2c1190b28b28889":"dcc703e3cd2b9f67379c1165596cc598"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
+#EXTINF:-1 ch-number="31" ,Canal Hollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38b0a87ba1614db52f1520191282a0db:af101261419cdcf7c09b82592eac862a
+https://ott.zapitv.com/live/eds_c2/hollywood_hd/dash_live_enc/hollywood_hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unknown.png" group-title="13. M+ INFORMACION", M+ Liga de Campeones 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
