@@ -869,3 +869,53 @@ http://netse.es:8080/play/eSoSxuEQhTCqMmpm7_dAWqgV9ts-MWkXSMgAGOsZ0uQ
 
 #EXTINF:-1,LaLiga TV BAR
 http://netse.es:8080/play/eSoSxuEQhTCqMmpm7_dAWjTRfbMMX_s4wH3Q0nArBj4
+
+#EXTINF:-1,BEIN SPORTS 1 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SOaV649ySvmHav4C0qu15g","k":"hU5VmsjoRbIfkKlgTH7N7Q"},{"kty":"oct","kid":"L4/eoDJDTiCAMkFbIK77ow","k":"nYxcemnahiDvqrn+NQGjrw"},{"kty":"oct","kid":"F5NCBP6oQy6CzprZs5gM3A","k":"ksfNR6w2M5cd8C7NYhQrGw"},{"kty":"oct","kid":"8wZw7GvCRPeJK9hhVgrNmA","k":"tp/83l3UGoNQzixYe/A6jQ"}]}
+https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/beinsports1-hd/dash-fhd/beinsports1-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS 2 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zLQLfFliQN2GMqwf320oig","k":"Yk6VvFtKvsbZXyF8mmN6xQ"},{"kty":"oct","kid":"jS53LzjbQ/igIM/79KKPPg","k":"KRqCCNvFDIZWEnk10qBSDw"},{"kty":"oct","kid":"oM5f9hyWQDuroS2hEVbT2Q","k":"fW0ba3lohu5PiU4GrJCgFQ"},{"kty":"oct","kid":"dglhcyADRZi/hrYWBbGr0Q","k":"Qpv5dOWCmWUhqGpHnIcFYQ"}]}
+https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/beinsports2-hd/dash-fhd/beinsports2-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS 3 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vR4Fo97/SUqUjNAP/gSprg","k":"OGxFxii0NbtZjh/5XpGqjg"},{"kty":"oct","kid":"kKh4ZgOsTYyMd04tFkPcUg","k":"NNEB57KIPt3TxSaxx0ScVQ"},{"kty":"oct","kid":"5b4FAdL4Sz+CeGjnXOAfKw","k":"BXQi0zUstxo3BN83lJTUdw"},{"kty":"oct","kid":"WjkE+uBVSbe9rsndLd/erQ","k":"RY6thvGbEz502kpNGQnqVQ"}]}
+https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/beinsports3-hd/dash-fhd/beinsports3-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS MAX 4 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BFCCiMlKQJWWD1xvm6mURQ","k":"Dpf09FsW8mcAvDmu58eYxg"},{"kty":"oct","kid":"EfTWJFdTQbyi4a6knsgETg","k":"nErzk3GOa8C/bWcm5WdBMw"},{"kty":"oct","kid":"E/NC6TVzQSqE+0pV+vCZCA","k":"5MF3MMuP5G03FH96ir57zQ"}]}
+https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax4-hd/dash-fhddvr/beinsportsmax4-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS MAX 5 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"htNR4nUmRUmUxKA+JkFeuQ","k":"anLMaC3cEhWJa4RuHNJNIg"},{"kty":"oct","kid":"ClZiCAmkQoWRRYCkh91R5w","k":"oOD6KiWlTIfk3gpSSewfFQ"},{"kty":"oct","kid":"A6b8jgJOQ8mLtkIKmg4NjQ","k":"zJGkupHBojmxFgdVMqSqiQ"}]}
+https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax5-hd/dash-fhddvr/beinsportsmax5-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS MAX 6 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"O5BosJnPRyCeODQmeF+M9g","k":"oCCBKOnsNXVQf0pDIwaMOQ"},{"kty":"oct","kid":"IrY37V1STdi7P9eIgpkiQw","k":"8Bm98bEZtuDoyYEuZX11WA"},{"kty":"oct","kid":"uNaQqsMRStSknEb9NFLI0g","k":"UT0D9WbSsmohioeMkHBpyA"}]}
+https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax6-hd/dash-fhddvr/beinsportsmax6-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS MAX 7 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wCKhPW7YTuifkzPeC0jyHg","k":"1uNtfFftG0SK9o1zYA+8nA"},{"kty":"oct","kid":"pcg2NFf3RT+bkJpC8ZRzcg","k":"UrOlluBF8iqwA30qcR6hMQ"},{"kty":"oct","kid":"P7ymmQIdQt6QIwrU6i0Kzw","k":"IwVhK8zBJzSfpZkys8ERTg"}]}
+https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax7-hd/dash-fhddvr/beinsportsmax7-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS MAX 8 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m+UavaGARlWzu8Nt4PZvQg","k":"Qe9YuJJLwR1bt4V4oQwaGA"},{"kty":"oct","kid":"5hXyxtXLS8icadcmK2ZfJA","k":"Kt1vTFxRKODLZd3tv5vbYA"},{"kty":"oct","kid":"C1GHYMppQG61W5zHrtti8A","k":"wOYAmjlx6lRg6+8G06YCaA"}]}
+https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax8-hd/dash-fhddvr/beinsportsmax8-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS MAX 9 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Qr+ip0ygQ6SEMqzeEdwxaA","k":"GfofwhINvYcaS/PMtbCEtQ"},{"kty":"oct","kid":"khAcGtZMSgGvXh5lyd1FcA","k":"DnByy/OR1TETeq7VCxJK8w"},{"kty":"oct","kid":"VwS52zNmQiyaRotQoczXdw","k":"s4zrmA4+a1LjeudxTh0kSQ"},{"kty":"oct","kid":"hPBrRv4tRQSJDhcd7oC69g","k":"2SC82TElh8xWx7AqG38vqw"}]}
+https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax9-hd/dash-fhddvr/beinsportsmax9-hd.mpd
+
+#EXTINF:-1,BEIN SPORTS MAX 10 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7oX8o4Q5SY6ZmufwMRZKlQ","k":"EPErWG1G6vDbDh4ifCufBQ"},{"kty":"oct","kid":"xQuB15uEQCShZ8M8Ln1wRA","k":"vLh00WRQzCdUamk8C4hmBw"},{"kty":"oct","kid":"bUPxC2H9SHiooSUmRI3Gcw","k":"+pr0bqb9KNNmLORb+04O1Q"},{"kty":"oct","kid":"BH/fFwPLSCifQ1cBtF6F4g","k":"yE0RJmtW91uEisXC5bDxGQ"},{"kty":"oct","kid":"Ao+sIvQvR0KuKvRewS/mdQ","k":"iQwcLtXZlLWTvSZsOMxGjw"}]}
+https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax10-hd/dash-fhddvr/beinsportsmax10-hd.mpd
