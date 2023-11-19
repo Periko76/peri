@@ -6,13 +6,11 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G4tFLHsRVpKDiQtCi4Czbw","k":"k+CKdSJZVFTMoP/Y74D2FA"},{"kty":"oct","kid":"zoHissNIWBiLpc5EgNQN0Q","k":"BZ3VYfr2DgoJbP0qLLlAbQ"},{"kty":"oct","kid":"qgfJsJ0HW/yoTa8ar4CdCw","k":"kAa8JqLL+cau6Smqt8KG1w"}]}
 https://tvup-gra-livegeo.secure2.footprint.net/fox6/fox6.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="01. M+ GENERALISTAS", Syfy
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0b5227c110fc4af5b506e6a6c7791da1":"fce863b6daf0a9190db85ecede2481f6"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
+#EXTINF:-1 ch-number="46" , SyFy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
+https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" group-title="Entretenimiento",Antena 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
