@@ -11,7 +11,6 @@ https://tvup-gra-livegeo.secure2.footprint.net/fox6/fox6.mpd
 #KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" group-title="Entretenimiento",Antena 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -401,13 +400,10 @@ https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
 https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unknown.png" group-title="10. M+ ESTILO DE VIDA", Amc
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4731f1896bb14771afbd1c71c22f2aa2":"b1fa646ebe218d19658b3e313a498593"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
+#EXTINF:-1 ch-number="44" ,AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
+https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="10. M+ ESTILO DE VIDA", Mega
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
