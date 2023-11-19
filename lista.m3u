@@ -291,13 +291,11 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc457d13e8354e3ba3fe467dfe5315ed&key=3abb7fb8106da89825dab57fd1c2e24e
 https://ellasv-dash-movistarplus.emisiondof6.com/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/250px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine y Series",M+ Cine
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yNPSclyn+yOwZUgwqjIvKg", "kid":"n7HwY40/Suyjejx6avL+9g" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://jabawalkies.club:8080/spainexch880io/St3TdgUcca/46736
+#EXTINF:-1 ch-number="154" , M+ Cine
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=c82bd4eaa9138c012aa23d3ed3ffa3e16c0a4d247f4c3b65a6564147e3164ab1d1b879de2d80bf6fbe72e23f7c96fefd04b8d5cf2ddecb90be2ba5fcd23bbbd3e0c522605a5099ea2b1366aa4d72c7a93c04277f56e13d61e238230b2065ada7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fb1f0638d3f4aeca37a3c7a6af2fef6:c8d3d2725ca7fb23b0654830aa322f2a
+https://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TERROR" ch-number="15" , M+ Terror
 #KODIPROP:inputstream.adaptive.license_type=clearkey
