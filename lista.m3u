@@ -610,7 +610,7 @@ https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"77b7e5e8b6354bf8925af0ddd24afebd":"635ed494d990466029b9681c7d981143"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Deportes",M+ Originales 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
