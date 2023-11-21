@@ -25,22 +25,6 @@ http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/151682
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://estaticos-cdn.epe.es/clip/89a49e31-c35d-4d09-9cc7-3626b7a9c4ec_alta-libre-aspect-ratio_default_0.jpg" group-title="Deportes",LaLiga Tv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"410a06ad4bbb5a56a8a1d40581d87ade":"f24f7120db4996a6ac9e4f82e7bb188f","81e9f28449c8535b989b7f26b5a545d6":"19d4a958a7077888018fba4812228928"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://estaticos-cdn.epe.es/clip/89a49e31-c35d-4d09-9cc7-3626b7a9c4ec_alta-libre-aspect-ratio_default_0.jpg" group-title="Deportes",LaLiga Tv 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3a2a0471e1bb5724af7a4dbc92dc4cd8":"dc8a07e8af240cb2e1698c652d8fd1d2","13623400d2615f5087923f6a6ab317f5":"738bed5176f4f80eac25269df3bcb1d3","d7226638608757ab8977bd66f5aa3dbe":"7c179e0593e9c7cc1905262952eec399"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="Deportes",1 RFEF
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
