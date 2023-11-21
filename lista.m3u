@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900738400489502/unknown.png" group-title="Deportes",M+ Deportes
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
