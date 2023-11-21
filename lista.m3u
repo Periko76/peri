@@ -798,10 +798,10 @@ https://streamer.zapitv.com/betis/index.mpd
 #EXTINF:-1,Sevilla FC Televisión
 https://streamer.zapitv.com/sevillafc/index.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" ch-number="68" , M+ Golf 2
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Deportes Acestream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
-https://2golf-dash-movistarplus.emisiondof6.com/manifest.mpd
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 
 #EXTINF:-1 ch-number="51" , Atreseries
 #KODIPROP:inputstream.adaptive.license_type=clearkey
