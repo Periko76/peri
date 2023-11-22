@@ -4,7 +4,7 @@
 KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
-http://relectro.xyz:8080/MoisesUlta/j7zFmj7wYn/214
+http://relectro.xyz:8080/live/MoisesUlta/j7zFmj7wYn/214.m3u8
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Liga de Campeones 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
