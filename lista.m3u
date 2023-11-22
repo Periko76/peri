@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Liga de Campeones 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes",M+ LaLiga Tv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
