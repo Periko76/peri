@@ -670,10 +670,3 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
 
-#EXTINF:-1,Prueba 
-"ploorl": "RuilL7JGImsJ+R+b/lRlMGtTM3uK1LgxUmWRseHwYmu+LwiIlF5ci3bemz3SnQHbyXlG3K0/GkrFHoUyMp6vKBrGn6OcSDKXGtUpvYIn8vWcg5AMWjpkFQU4PoJsjRqMMvopNXgFHtubtdFU1Ed5j40htUMDsvHuT7qvTMyCrF24iUTIU94Kx60am8t0LQ8otO+KEXCMtaIGfXOQM5UrOiBpTZP53YpLMcKtQoGYofoLSK4Ur6PK7cFUaTRKz2OMCHgfmtwfLbY=",
-      "qqs": {
-        "q": {"gA4JJ6BsiN78BT56Zlcnj6BwrHtA6W2f65uutlUOwRGKk8LkeiDNoBYuiZY8ocnGH4LOKDu5gNPxxjV1VQM6EBvHYWW4i0nH": "O4ExkRTQrWLGPZYSs3FX+yD+F8Ey2M4CGSDumrXf3pJvo8ZVK0ncdb4JBdKHayoI8bpa0+Sb43Uu5dhfvXfynDWSokfAS1Pj"},
-        "isbase64": false
-      }
-    },
