@@ -706,3 +706,10 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
 
+#EXTINF:-1, Movistar Plus+
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/1452003694/index.m3u8
+
+#EXTINF:-1, M+ Vamos
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/2185471044/index.m3u8
