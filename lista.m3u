@@ -714,10 +714,3 @@ http://vavoo.to/play/1452003694/index.m3u8
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 http://vavoo.to/play/2185471044/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900738400489502/unknown.png" group-title="Deportes",M+ Vamos iptv
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://vavoo.to/play/2185471044/index.m3u8
