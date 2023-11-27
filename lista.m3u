@@ -92,7 +92,7 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #KODIPROP:inputstream.adaptive.license_key={"3a2a0471e1bb5724af7a4dbc92dc4cd8":"dc8a07e8af240cb2e1698c652d8fd1d2","13623400d2615f5087923f6a6ab317f5":"738bed5176f4f80eac25269df3bcb1d3","d7226638608757ab8977bd66f5aa3dbe":"7c179e0593e9c7cc1905262952eec399"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://feftv-live-pathprotection.secure.footprint.net/restreamer/feftv_client/gpu-c-c1-2/restreamer/rtmp/hls/d1bf2db6-5dff-4eea-a268-a5909554fb3f/manifest.m3u8
+http://vavoo.to/play/4215248680/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo.png" group-title="Deportes",Astro Bein 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
