@@ -8,7 +8,7 @@
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://flbl1.112421.net:8082/323621/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
 
-#EXTINF:-1,M+ Accion
+#EXTINF:-1,M+ Acción
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
