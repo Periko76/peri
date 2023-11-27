@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO
-https://102.129.200.178:8080/JimaraDirecto/uVaEYpQRJdUw/60285
+https://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60285.ts
 
 #EXTINF:-1,M+ Drama
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
