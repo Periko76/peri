@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="MasMedia" tvg-id="4-6-149",4-6-149
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"864da7090ec74a0c817056fb5d0073cb":"key"}
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:149_premium.smil/manifest.mpd
+
 #EXTINF:-1,M+ Vamos pruebas
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 http://vavoo.to/play/2185471044/index.m3u8
