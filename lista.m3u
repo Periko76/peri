@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,M+ Liga Campeones
-https://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60285.ts
+https://102.129.200.178:8080/JimaraDirecto/uVaEYpQRJdUw/60285
 
 #EXTINF:-1,M+ Drama
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
