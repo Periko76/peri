@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="MasMedia" tvg-id="4-6-149",4-6-149
+#EXTINF:-1 tvg-logo="" group-title=M+ Comedia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"864da7090ec74a0c817056fb5d0073cb":"key"}
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:149_premium.smil/manifest.mpd
+http://flbl1.112421.net:8082/323619/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
 
 #EXTINF:-1,M+ Vamos pruebas
 #EXTVLCOPT:http-referrer=http://vavoo.to/
@@ -91,7 +91,7 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3a2a0471e1bb5724af7a4dbc92dc4cd8":"dc8a07e8af240cb2e1698c652d8fd1d2","13623400d2615f5087923f6a6ab317f5":"738bed5176f4f80eac25269df3bcb1d3","d7226638608757ab8977bd66f5aa3dbe":"7c179e0593e9c7cc1905262952eec399"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTVLCOPT:http-user-agent=dalvik
 http://vavoo.to/play/4215248680/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo.png" group-title="Deportes",Astro Bein 4K
