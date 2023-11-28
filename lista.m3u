@@ -799,3 +799,8 @@ http://flbl1.112421.net:8082/323634/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://flbl1.112421.net:8082/323626/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
+
+#EXTINF:-1,UBEAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab78d96b3d04ecc984fdc0748e3066f:adbcf0645b6eee7b45b67076d2f4c699
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(UBEAT)/manifest.mpd
