@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1,SELEKT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ed068c1b3254c5082e17bfd81d9b5c4:e90843add062a30c3749aefaadf18b33
+http://vfpc.gb.vodafone.es/sdash/LIVE$CUP231/2.mpd/Manifest?start=LIVE&x&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+
 #EXTINF:-1,M+ Drama
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
