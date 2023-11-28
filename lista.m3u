@@ -45,7 +45,7 @@ https://webudit.hlsjs.ru/lb/premium17/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2ed068c1b3254c5082e17bfd81d9b5c4:e90843add062a30c3749aefaadf18b33
 http://vfpc.gb.vodafone.es/sdash/LIVE$CUP231/2.mpd/Manifest?start=LIVE&x&end=END&device=DASH_STB_NGRSSP_LIVE_HD
 
-#EXTINF:-1,M+ Liga Campeones hbomax BARCELONA OPORTO
+#EXTINF:-1,M+ Liga Campeones BARCELONA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0101a68ba534259a545328beea30af4d":"9bf631ce85b769b5b5f0dc0056966e62"}
