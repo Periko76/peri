@@ -45,13 +45,13 @@ https://webudit.hlsjs.ru/lb/premium17/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2ed068c1b3254c5082e17bfd81d9b5c4:e90843add062a30c3749aefaadf18b33
 http://vfpc.gb.vodafone.es/sdash/LIVE$CUP231/2.mpd/Manifest?start=LIVE&x&end=END&device=DASH_STB_NGRSSP_LIVE_HD
 
-EXTINF:-1,M+ Drama
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+EXTINF:-1,M+ BARCELONA OPORTO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
+#KODIPROP:inputstream.adaptive.license_key={"0101a68ba534259a545328beea30af4d":"9bf631ce85b769b5b5f0dc0056966e62"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://flbl1.112421.net:8082/323622/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
+https://live.fly.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/36408/master.mpd
 
 EXTINF:-1,M+ Comedia
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
