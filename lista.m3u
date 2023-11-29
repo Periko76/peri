@@ -72,10 +72,10 @@ http://vfpc.gb.vodafone.es/sdash/LIVE$CUP231/2.mpd/Manifest?start=LIVE&x&end=END
 #EXTINF:-1,M+ Campeones Hbomax MADRID NAPOLES
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0101bf2b148b5c46ab5137bb5ece0e13":"af665eebecece0acbf810420769ed7fc"}
+#KODIPROP:inputstream.adaptive.license_key={"0101547b2cd786ae1ed623a6e406f764":"1aa71ec5c5b1d44d8a6dff9c09a36b9d"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031617/dash/cenc/36423/master.mpd
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/36420/master.mpd
 
 EXTINF:-1,M+ Comedia
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
