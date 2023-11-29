@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR LIGA DE CAMPEONES HD 1080P (ORANGE)
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt7PCKR0GuFsTZrM-SfVp6Fl
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR Plus+ Hd
 http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt57TLUYgbm_h-oSvgnY0Cm5
 
