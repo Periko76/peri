@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR Plus+ Hd
+http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt57TLUYgbm_h-oSvgnY0Cm5
+
 #EXTINF:-1,M+ LaLiga TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec2846d2c0e04531be5100e0c4c7decd:f28fd5016a9117604330220c0ad086aa
