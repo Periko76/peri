@@ -169,7 +169,7 @@ http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/151682
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="Deportes",1 RFEF
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="Deportes",1 RFEF
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3a2a0471e1bb5724af7a4dbc92dc4cd8":"dc8a07e8af240cb2e1698c652d8fd1d2","13623400d2615f5087923f6a6ab317f5":"738bed5176f4f80eac25269df3bcb1d3","d7226638608757ab8977bd66f5aa3dbe":"7c179e0593e9c7cc1905262952eec399"}
@@ -177,7 +177,7 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTVLCOPT:http-user-agent=dalvik
 http://vavoo.to/play/4215248680/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo.png" group-title="Deportes",Astro Bein 4K
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo.png" group-title="Deportes",Astro Bein 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"22fbef1c1cd725e9397ec16455f08210":"7aea43cd93c24aa9834ecb4984f7fd5a"}
@@ -805,7 +805,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
 
-#EXTINF:-1, Movistar Plus+
+EXTINF:-1, Movistar Plus+
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 http://vavoo.to/play/1452003694/index.m3u8
 
@@ -825,7 +825,7 @@ http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/151640
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://flbl1.112421.net:8082/323634/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
 
-#EXTINF:-1, M+ LaLiga Tv
+EXTINF:-1, M+ LaLiga Tv
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
