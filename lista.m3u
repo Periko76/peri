@@ -837,3 +837,7 @@ http://flbl1.112421.net:8082/323626/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab78d96b3d04ecc984fdc0748e3066f:adbcf0645b6eee7b45b67076d2f4c699
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(UBEAT)/manifest.mpd
+
+#EXTINF:-1,M+ Vamos
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/2185471044/index.m3u8
