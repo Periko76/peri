@@ -77,13 +77,13 @@ EXTINF:-1,M+ Campeones Hbomax MADRID NAPOLES
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/36420/master.mpd
 
-EXTINF:-1,M+ Comedia
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+EXTINF:-1,M+ LaLiga tv
+#KODIPROP:inputstream.adaptive.manifest_type=ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://flbl1.112421.net:8082/323621/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
+https://102.129.200.178:8080/JimaraDirecto/uVaEYpQRJdUw/60235.ts
 
 EXTINF:-1,M+Campeones Hbomax Sevilla Psv
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
