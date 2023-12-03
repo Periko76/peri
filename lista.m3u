@@ -5,10 +5,13 @@
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178077.ts
 
-#EXTINF:-1, DAZN LaLiga 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=www.kool.to
-https://www.kool.to/play/1151787191/index.m3u8
+#EXTINF:-1, Dazn LaLiga 2
+#KODIPROP:inputstream.adaptive.manifest_type=ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60268.ts
 
 #EXTINF:-1,M+ Deportes 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
