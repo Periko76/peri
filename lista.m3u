@@ -848,7 +848,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
 
 #EXTINF:-1, Movistar Plus+
 #EXTVLCOPT:http-referrer=http://vavoo.to/
-http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/61014.ts
+http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/61054.ts
 
 #EXTINF:-1, M+ Vamos
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
