@@ -1,11 +1,5 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-#EXTINF:-1 group-title="Vi Sports", ChampionsTV 3
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
-
-
 EXTINF:-1, M+ Cine
 #KODIPROP:inputstream.adaptive.manifest_type=ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
