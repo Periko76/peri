@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Wzp6au.png", La Liga TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VD3dJBcJiC2MuxYsLBG5ZA","kid":"0uFfw52QUqC/Xt8XSYeF6g"},{"kty":"oct","k":"BriRsZUyEcgoa7MSrQXp5Q","kid":"4siMHOx4VHWrawWhxNFaeA"},{"kty":"oct","k":"DQvy4ud5n/Jsi7grG+Z8ig","kid":"RDVDIBD0XdmWfc483hhmSw"}]}
+https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+
 EXTINF:-1, M+ Cine
 #KODIPROP:inputstream.adaptive.manifest_type=ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
