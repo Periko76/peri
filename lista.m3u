@@ -1,9 +1,9 @@
 #EXTM3U
+EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1,M+ LaLiga TV
 #EXTVLCOPT:program=29967
 http://88.11.244.192:8001/1:0:19:750F:420:1:C00000:0:0:0:
-
 
 EXTINF:-1, M+ Cine
 #KODIPROP:inputstream.adaptive.manifest_type=ts
