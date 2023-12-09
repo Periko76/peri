@@ -1,7 +1,11 @@
 #EXTM3U
 EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1,pru
+#EXTINF:-1,M+ Deportes
+#EXTVLCOPT:program=29994
+http://88.11.244.192:8001/1:0:19:7532:426:1:c00000:0:0:0:
+
+#EXTINF:-1,prueba
 #EXTVLCOPT:program=29994
 http://88.11.244.192:8001/1:0:19:7539:426:1:c00000:0:0:0:
 
@@ -57,12 +61,12 @@ EXTINF:-1, Dazn LaLiga 2
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60268.ts
 
-#EXTINF:-1,M+ Deportes 2
+EXTINF:-1,M+ Deportes 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium438/index.m3u8
 
-#EXTINF:-1,M+ Deportes 3
+EXTINF:-1,M+ Deportes 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium526/index.m3u8
@@ -89,7 +93,7 @@ EXTINF:-1,Movistar Plus +
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDExOTU1NTAsImV4cCI6MTcwMTI4MTk1MCwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAxMTk1NTUwLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjA4MkJFRTZBRDRBRTIxQTYzNDlDMTNFRTg5MDc0NDdBIiwiaWF0IjoxNzAxMTk1NTUwLCJzY29wZSI6ImNkbiJ9.utBwR8NSJ8NKvWA4eaSkwKW9BRmVMsaWqSNU85Z2-bgoQGiX7bWrstu-M6A_b0MiecqY5HEDvKqzvMSDKyJcxQ
 http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178079
 
-#EXTINF:-1,M+ Vamos 1
+EXTINF:-1,M+ Vamos 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c067cb8d7357499f94599a607b85f9d3:da6ae5a046a56ee684fa8359dbe0c1fd
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0
@@ -202,7 +206,7 @@ EXTINF:-1,M+ Liga de Campeones
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium435/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ LaLiga Tv acestream
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ LaLiga Tv acestream
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
@@ -210,7 +214,7 @@ https://webudit.hlsjs.ru/lb/premium435/index.m3u8
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Deportes 2 acestream
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Deportes 2 acestream
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
@@ -218,7 +222,7 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ acestream
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ acestream
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
@@ -234,7 +238,7 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachmen
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/242406
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Liga de Campeones acestream
+EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Liga de Campeones acestream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
@@ -255,7 +259,7 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachmen
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/151682
 
-#EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Deportes",M+ Vamos acestream
+EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Deportes",M+ Vamos acestream
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"77b7e5e8b6354bf8925af0ddd24afebd":"635ed494d990466029b9681c7d981143"}
@@ -280,7 +284,7 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Deportes Acestream
+EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Deportes Acestream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
@@ -861,7 +865,7 @@ EXTINF:-1, M+ Vamos
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/151640
 
-#EXTINF:-1, M+ Deportes 
+EXTINF:-1, M+ Deportes 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
