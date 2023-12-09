@@ -2,21 +2,21 @@
 EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1,PRUEBASs
+#EXTINF:-1,M+ Acción
 #EXTVLCOPT:program=29990
 http://88.11.244.192:8001/1:0:19:7509:420:1:c00000:0:0:0:
 
-#EXTINF:-1,PRUEBA 1
+#EXTINF:-1,M+ Liga de Campeones
 #EXTVLCOPT:program=29991
 http://88.11.244.192:8001/1:0:19:78b4:3ec:1:c00000:0:0:0:
 
 
-#EXTINF:-1,PRUEBA 
+#EXTINF:-1,M+ Vamos
 #EXTVLCOPT:program=29918
 http://88.11.244.192:8001/1:0:19:750a:420:1:c00000:0:0:0:
 
 
-#EXTINF:-1,Movistar Plus+ HD
+#EXTINF:-1,Movistar Plus+
 #EXTVLCOPT:program=29908
 http://88.11.244.192:8001/1:0:19:74D4:3F8:1:C00000:0:0:0:
 
@@ -84,13 +84,13 @@ http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178079
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0
 http://panelprogeniusingeniero.pro:8080/live/SpainVIpGeonati@Reshare@Vip/R2BNnMgaamgc/61277.ts
 
-#EXTINF:-1,M+ Liga de Campeones 2
+EXTINF:-1,M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0890637e2af46d497b5620cc88919ab:d321758640c54446306c6285ac0607f0
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MDExOTU1NTAsImV4cCI6MTcwMTI4MTk1MCwiaXNzIjoiaHR0cHM6Ly9saXRlLmRvZjYuY29tL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WTdsN3g4RzhVOGM4dTk0IiwiYXV0aF90aW1lIjoxNzAxMTk1NTUwLCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJIY1kvSTBnaFIrWU1zZTZZYlgvbmUxUndZNnZGQmJaTWRDdWtrcXpWSWlzPSIsImp0aSI6IjA4MkJFRTZBRDRBRTIxQTYzNDlDMTNFRTg5MDc0NDdBIiwiaWF0IjoxNzAxMTk1NTUwLCJzY29wZSI6ImNkbiJ9.utBwR8NSJ8NKvWA4eaSkwKW9BRmVMsaWqSNU85Z2-bgoQGiX7bWrstu-M6A_b0MiecqY5HEDvKqzvMSDKyJcxQ
 http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60288.ts
 
-#EXTINF:-1,M+ Liga de Campeones 2
+EXTINF:-1,M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.manifest_type=ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
@@ -98,7 +98,7 @@ http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60288.ts
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60305.ts
 
-#EXTINF:-1, M+ Liga de Campeones
+EXTINF:-1, M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
@@ -107,7 +107,7 @@ http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60305.ts
 http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60283.ts
 
 
-#EXTINF:-1,M+ Liga de Campeones
+EXTINF:-1,M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
@@ -115,7 +115,7 @@ http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60283.ts
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60284.ts
 
-#EXTINF:-1,M+ Liga de Campeones
+EXTINF:-1,M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
