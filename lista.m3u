@@ -2,7 +2,7 @@
 EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1,pru
-#EXTVLCOPT:program=29993
+#EXTVLCOPT:program=29994
 http://88.11.244.192:8001/1:0:19:7539:426:1:c00000:0:0:0:
 
 #EXTINF:-1,M+ Drama
