@@ -1,7 +1,7 @@
 #EXTM3U
 EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1,Pruebali1
+#EXTINF:-1,M+ LaLiga Tv 2
 #EXTVLCOPT:program=29981
 http://88.11.244.192:8001/1:0:19:7853:41a:1:c00000:0:0:0:
 
@@ -13,7 +13,7 @@ http://88.11.244.192:8001/1:0:19:7539:426:1:c00000:0:0:0:
 #EXTVLCOPT:program=29999
 http://88.11.244.192:8001/1:0:19:7532:426:1:c00000:0:0:0:
 
-#EXTINF:-1,prueba
+#EXTINF:-1,M+ Deportes
 #EXTVLCOPT:program=29960
 http://88.11.244.192:8001/1:0:1:778f:424:1:c00000:0:0:0
 
