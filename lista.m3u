@@ -1,6 +1,10 @@
 #EXTM3U
 EXTVLCOPT--http-reconnect=true
 
+#EXTINF:-1,Pruebas
+#EXTVLCOPT:program=29993
+http://88.11.244.192:8001/1:0:19:750b:420:1:c00000:0:0:0:
+
 #EXTINF:-1,Prueba
 #EXTVLCOPT:program=29992
 http://88.11.244.192:8001/1:0:19:7857:41a:1:c00000:0:0:0:
