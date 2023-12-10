@@ -449,6 +449,12 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/mani
 #KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
 https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
 
+#EXTINF:-1 ch-number="44" ,AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b249199fa740409ef305b5bf55a571:f3adbe6cbe3fccf651843fc01bc109c1
+http://vfpc.gb.vodafone.es/sdash/LIVE$CUP007/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+
+
 #EXTINF:-1 ch-number="45" , AXN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
