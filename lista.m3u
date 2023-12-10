@@ -398,6 +398,11 @@ https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G4tFLHsRVpKDiQtCi4Czbw","k":"k+CKdSJZVFTMoP/Y74D2FA"},{"kty":"oct","kid":"zoHissNIWBiLpc5EgNQN0Q","k":"BZ3VYfr2DgoJbP0qLLlAbQ"},{"kty":"oct","kid":"qgfJsJ0HW/yoTa8ar4CdCw","k":"kAa8JqLL+cau6Smqt8KG1w"}]}
 https://tvup-gra-livegeo.secure2.footprint.net/fox6/fox6.mpd
 
+#EXTINF:-1 ch-number="38" , Fox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b70c1cfa0014bac814e396955ef4c8f:6d91dbb976489658b11220822f571756
+http://vfpc.gb.vodafone.es/sdash/LIVE$CUP011/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+
 #EXTINF:-1 ch-number="39" , AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17b4b5cdbb271e7f6d97e38a04a2d27f:75aef15c20e7a17c64b71d2f840a6f5d
