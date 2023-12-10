@@ -375,8 +375,8 @@ https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 
 #EXTINF:-1 ch-number="33" , Sundance TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00985a2a9f724f07b7d1d433d52bd216&key=5edfd7675466f31b87157ee1f69d5f10
-https://sundance-dash-movistarplus.emisiondof6.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=88ff8b4028304e13975bd55841e31c89:2cc947b98b3988569dd099c0e029b519
+http://vfpc.gb.vodafone.es/sdash/LIVE$CUP009/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
 
 #EXTINF:-1 ch-number="34" , DARK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
