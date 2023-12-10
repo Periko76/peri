@@ -363,6 +363,11 @@ https://ott.zapitv.com/live/eds_c2/tcm_moderno/dash_live_enc/tcm_moderno.mpd
 #KODIPROP:inputstream.adaptive.license_key=38b0a87ba1614db52f1520191282a0db:af101261419cdcf7c09b82592eac862a
 https://ott.zapitv.com/live/eds_c2/hollywood_hd/dash_live_enc/hollywood_hd.mpd
 
+#EXTINF:-1 ch-number="31" ,Canal Hollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c21f44d50edb44e2b7f91aabdd884938:09a33e580104eadbdbf1a02b039c3e98
+http://vfpc.gb.vodafone.es/sdash/LIVE$CUP006/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+
 #EXTINF:-1 ch-number="32" , XTRM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=563e6e1367e0c8c0f6643cf0ae92c4e7:7a84ece91b690c5b717eeffd58a55b04
