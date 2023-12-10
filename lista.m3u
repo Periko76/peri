@@ -408,6 +408,11 @@ http://vfpc.gb.vodafone.es/sdash/LIVE$CUP011/2.mpd/Manifest?start=LIVE&end=END&d
 #KODIPROP:inputstream.adaptive.license_key=17b4b5cdbb271e7f6d97e38a04a2d27f:75aef15c20e7a17c64b71d2f840a6f5d
 https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
 
+EXTINF:-1 ch-number="39" , AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d3801618cf40feb50b8b9929c780f6:993b92caf8fc7e17354f3bdb07e9e801
+http://vfpc.gb.vodafone.es/sdash/LIVE$CUP012/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+
 #EXTINF:-1 ch-number="40" , Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
