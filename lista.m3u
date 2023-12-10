@@ -470,6 +470,11 @@ http://vfpc.gb.vodafone.es/sdash/LIVE$CUP018/2.mpd/Manifest?start=LIVE&end=END&d
 #KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 
+#EXTINF:-1 ch-number="46" , SyFy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239f03b8319f4d3098f241c1a42008b7:00ffdda1317dc89d255dad7e56bcd525
+http://vfpc.gb.vodafone.es/sdash/LIVE$CUP015/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+
 #EXTINF:-1,BOM Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac9b27e3ad295bdd734c7e39ac11c88:be3c7d023415988972512ccba3f14fe4
