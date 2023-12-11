@@ -969,11 +969,3 @@ EXTINF:-1,Película Oppenheimer
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 http://sintapujos.ddns.net:8096/Videos/954a9d04-33de-9162-e39f-86852cc069bc/stream?static=true
 
-#EXTINF:-1,Pruebazon
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-http://sintapujos.d
-http://50.7.149.114:8880/Xexuinter/71YGEevrcR/152391?token=ThQLAEVcRggTVVNRBFAJAQUDUlVfA1QBAAVXUAIEAQkNUAJRAgdTAwIVGRBCEEJcAAg6WAIVWQdWBQJbABlHTEZTET5fUEYIEwQHBBNIEk0ICAATXAZUBlEEAFYJBVAVF0YKBRQORgAFBwQLE0gSXBkRAEMIVg9pB1JHC1JQRwNbQw8NGhYLXG5TUF9QClQbW0dVE0oVCkUTFQtAfkcEV1JTQyRFRAVVX1IVYXBGHBsDDBFDB0MGFFkVAlsFBEcVF1UMFFhAFksTDRd3YkYcGwQdEVQIRApZDRULQEVGRxUXXxA+RFEXRkNSVF9UFhIDQ1RHHURaAk48VF4MX1AGTVxZDRIUDkYHARUZEFwLXlAVChduFl4HFFkVA1UEBkdE
