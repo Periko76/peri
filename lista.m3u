@@ -52,17 +52,17 @@ http://88.11.244.192:8001/1:0:19:750a:420:1:c00000:0:0:0:
 #EXTVLCOPT:program=29908
 http://88.11.244.192:8001/1:0:19:74D4:3F8:1:C00000:0:0:0:
 
-#EXTINF:-1,M+ LaLiga TV
+EXTINF:-1,M+ LaLiga TV
 #EXTVLCOPT:program=29967
 http://88.11.244.192:8001/1:0:19:750F:420:1:C00000:0:0:0:
 
-EXTINF:-1, M+ Cine
+#EXTINF:-1, M+ LaLiga Tv
 #KODIPROP:inputstream.adaptive.manifest_type=ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
+#KODIPROP:inputstream.adaptive.license_key={"850c1a430396ce4255f3902bf1f4e897":"295b1db977f94dfbba012073901a019b"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/61039.ts
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/Mc7KDYp6w7oICWh_CO9fjQ/1702409501///76/cmaf/r12_mlaliga/dash_high.mpd
 
 
 EXTINF:-1, M+ Cine
