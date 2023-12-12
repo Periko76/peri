@@ -47,6 +47,14 @@ http://88.11.244.192:8001/1:0:19:7509:420:1:c00000:0:0:0:
 acestream:
 http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/193.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Liga de Campeones 2
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/243.m3u8
+
 
 EXTINF:-1,M+ Vamos
 #EXTVLCOPT:program=29918
