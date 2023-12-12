@@ -61,9 +61,9 @@ EXTINF:-1,M+ Vamos
 http://88.11.244.192:8001/1:0:19:750a:420:1:c00000:0:0:0:
 
 
-EXTINF:-1,Movistar Plus+
+#EXTINF:-1,Movistar Plus+
 #EXTVLCOPT:program=29908
-http://88.11.244.192:8001/1:0:19:74D4:3F8:1:C00000:0:0:0:
+http://65.109.111.120:8080/live/JimaraDirecto/uVaEYpQRJdUw/61054.ts
 
 EXTINF:-1,M+ LaLiga TV
 #EXTVLCOPT:program=29967
