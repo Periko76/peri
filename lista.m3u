@@ -245,13 +245,13 @@ EXTINF:-1,M+ Deportes 2
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/61048.ts
 
-EXTINF:-1,M+Campeones Hbomax Sevilla Psv
+#EXTINF:-1,M+Campeones Hbomax 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0101e1923e99477c8ada870092b42ff4":"d69bc2616e6cac2e9a6106717ea4a1a2"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/36411/master.mpd
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/36488/master.mpd&img=aHR0cHM6Ly9hcnQtZ2FsbGVyeS1sYXRhbS5hcGkuaGJvLmNvbS9pbWFnZXMvR1pTWGxGd0VpUXNNcnd3RUFBQkdCL3RpbGVidXJuZWRpbj8mc2l6ZT0xOTIweDEwODAmY29tcHJlc3Npb249aGlndA==
 
 #EXTINF:-1,M+ Deportes pruebas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
