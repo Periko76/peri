@@ -1,10 +1,10 @@
 #EXTM3U
 EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1,Pruebaliga
+EXTINF:-1,Pruebaliga
 http://88.11.244.192:8001/1:0:1:7582:412:1:c00000:0:0:0:
 
-#EXTINF:-1,DAZN LaLiga 2
+EXTINF:-1,DAZN LaLiga 2
 http://88.11.244.192:8001/1:0:1:7691:41E:1:C00000:0:0:0:
 
 EXTINF:-1,prueba
@@ -14,41 +14,41 @@ EXTINF:-1,M+ LaLiga Tv 2
 #EXTVLCOPT:program=29981
 http://88.11.244.192:8001/1:0:19:7853:41a:1:c00000:0:0:0:
 
-#EXTINF:-1,M+ Cine
+EXTINF:-1,M+ Cine
 #EXTVLCOPT:program=29978
 http://88.11.244.192:8001/1:0:19:7539:426:1:c00000:0:0:0:
 
-#EXTINF:-1,M+ Deportes 2
+EXTINF:-1,M+ Deportes 2
 #EXTVLCOPT:program=29999
 http://88.11.244.192:8001/1:0:19:7532:426:1:c00000:0:0:0:
 
-#EXTINF:-1,M+ Deportes
+EXTINF:-1,M+ Deportes
 #EXTVLCOPT:program=29960
 http://88.11.244.192:8001/1:0:1:778f:424:1:c00000:0:0:0
 
-#EXTINF:-1,M+ Drama
+EXTINF:-1,M+ Drama
 #EXTVLCOPT:program=29993
 http://88.11.244.192:8001/1:0:19:750b:420:1:c00000:0:0:0:
 
-#EXTINF:-1,M+ Comedia
+EXTINF:-1,M+ Comedia
 #EXTVLCOPT:program=29992
 http://88.11.244.192:8001/1:0:19:7857:41a:1:c00000:0:0:0:
 
-#EXTINF:-1,M+ Acción
+EXTINF:-1,M+ Acción
 #EXTVLCOPT:program=29990
 http://88.11.244.192:8001/1:0:19:7509:420:1:c00000:0:0:0:
 
-#EXTINF:-1,M+ Liga de Campeones
+EXTINF:-1,M+ Liga de Campeones
 #EXTVLCOPT:program=29992
 http://88.11.244.192:8001/1:0:19:78b4:3ec:1:c00000:0:0:0:
 
 
-#EXTINF:-1,M+ Vamos
+EXTINF:-1,M+ Vamos
 #EXTVLCOPT:program=29918
 http://88.11.244.192:8001/1:0:19:750a:420:1:c00000:0:0:0:
 
 
-#EXTINF:-1,Movistar Plus+
+EXTINF:-1,Movistar Plus+
 #EXTVLCOPT:program=29908
 http://88.11.244.192:8001/1:0:19:74D4:3F8:1:C00000:0:0:0:
 
@@ -63,6 +63,38 @@ http://88.11.244.192:8001/1:0:19:750F:420:1:C00000:0:0:0:
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://live12-dash.cdns.cdn.orangetv.orange.es:80/Mc7KDYp6w7oICWh_CO9fjQ/1702409501///76/cmaf/r12_mlaliga/dash_high.mpd
+
+#EXTINF:-1, M+ Liga de Campeones
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/3Pl7G4kgUhY2s2jLxCjLSg/1702444727///87/cmaf/r12_mcampeones/dash_high.mpd
+
+#EXTINF:-1, M+ Liga de Campeones 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/3DYViqMphih-9zMqEbs5-Q/1702444769///88/cmaf/r12_mcampeones2/dash_high.mpd
+
+#EXTINF:-1, M+ Liga de Campeones 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/d29CQW9kIUh3S81HV_QphQ/1702444809///89/cmaf/r12_mcampeones3/dash_high.mpd
+
+#EXTINF:-1, M+ Liga de Campeones 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/TwEUOJYctsjF7A3x0YsIFQ/1702444877///90/cmaf/r12_mcampeones4/dash_high.mpd
 
 
 EXTINF:-1, M+ Cine
