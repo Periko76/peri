@@ -38,9 +38,9 @@ EXTINF:-1,M+ Acción
 #EXTVLCOPT:program=29990
 http://88.11.244.192:8001/1:0:19:7509:420:1:c00000:0:0:0:
 
-EXTINF:-1,M+ Liga de Campeones
+#EXTINF:-1,M+ Liga de Campeones
 #EXTVLCOPT:program=29992
-http://88.11.244.192:8001/1:0:19:78b4:3ec:1:c00000:0:0:0:
+http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/193.ts
 
 
 EXTINF:-1,M+ Vamos
