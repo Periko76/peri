@@ -12,7 +12,7 @@ http://65.109.111.120:8080/live/JimaraDirecto/uVaEYpQRJdUw/61047.ts
 EXTINF:-1,Pruebaliga
 http://88.11.244.192:8001/1:0:1:7582:412:1:c00000:0:0:0:
 
-EXTINF:-1,DAZN LaLiga 2
+#EXTINF:-1,DAZN LaLiga 2
 http://88.11.244.192:8001/1:0:1:7691:41E:1:C00000:0:0:0:
 
 EXTINF:-1,prueba
@@ -22,27 +22,27 @@ EXTINF:-1,M+ LaLiga Tv 2
 #EXTVLCOPT:program=29981
 http://88.11.244.192:8001/1:0:19:7853:41a:1:c00000:0:0:0:
 
-EXTINF:-1,M+ Cine
+#EXTINF:-1,M+ Cine
 #EXTVLCOPT:program=29978
 http://88.11.244.192:8001/1:0:19:7539:426:1:c00000:0:0:0:
 
-EXTINF:-1,M+ Deportes 2
+#EXTINF:-1,M+ Deportes 2
 #EXTVLCOPT:program=29999
 http://88.11.244.192:8001/1:0:19:7532:426:1:c00000:0:0:0:
 
-EXTINF:-1,M+ Deportes
+#EXTINF:-1,M+ Deportes
 #EXTVLCOPT:program=29960
 http://88.11.244.192:8001/1:0:1:778f:424:1:c00000:0:0:0
 
-EXTINF:-1,M+ Drama
+#EXTINF:-1,M+ Drama
 #EXTVLCOPT:program=29993
 http://88.11.244.192:8001/1:0:19:750b:420:1:c00000:0:0:0:
 
-EXTINF:-1,M+ Comedia
+#EXTINF:-1,M+ Comedia
 #EXTVLCOPT:program=29992
 http://88.11.244.192:8001/1:0:19:7857:41a:1:c00000:0:0:0:
 
-EXTINF:-1,M+ Acción
+#EXTINF:-1,M+ Acción
 #EXTVLCOPT:program=29990
 http://88.11.244.192:8001/1:0:19:7509:420:1:c00000:0:0:0:
 
@@ -64,7 +64,7 @@ http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/193.ts
 http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/2213.ts
 
 
-EXTINF:-1,M+ Vamos
+#EXTINF:-1,M+ Vamos
 #EXTVLCOPT:program=29918
 http://88.11.244.192:8001/1:0:19:750a:420:1:c00000:0:0:0:
 
