@@ -101,7 +101,7 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/HbbwT9UQxw60efv6KVWFPA/1702530
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/3DYViqMphih-9zMqEbs5-Q/1702444769///88/cmaf/r12_mcampeones2/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/raY9X5woarpamoqc9OR9fQ/1702530876///88/cmaf/r12_mcampeones2/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -109,7 +109,7 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/3DYViqMphih-9zMqEbs5-Q/1702444
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/d29CQW9kIUh3S81HV_QphQ/1702444809///89/cmaf/r12_mcampeones3/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/80kcjLEDGCvlMRXFdWmpHg/1702530913///89/cmaf/r12_mcampeones3/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -117,7 +117,7 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/d29CQW9kIUh3S81HV_QphQ/1702444
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/TwEUOJYctsjF7A3x0YsIFQ/1702444877///90/cmaf/r12_mcampeones4/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/ahW1K3hA_26hzfAptUZZmg/1702530959///90/cmaf/r12_mcampeones4/dash_high.mpd
 
 
 EXTINF:-1, M+ Cine
