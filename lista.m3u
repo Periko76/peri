@@ -1,4 +1,4 @@
-#EXTM3U
+8#EXTM3U
 EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Deportes iptv
@@ -61,7 +61,7 @@ http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/193.ts
 #KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/2213.ts
+http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/243.ts
 
 
 #EXTINF:-1,M+ Vamos
