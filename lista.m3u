@@ -9,7 +9,7 @@ EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://65.109.111.120:8080/live/JimaraDirecto/uVaEYpQRJdUw/61047.ts
 
-EXTINF:-1,LaLiga tv Bar
+#EXTINF:-1,LaLiga tv Bar
 http://netse.es:8080/play/eSoSxuEQhTCqMmpm7_dAWjTRfbMMX_s4wH3Q0nArBj4
 
 #EXTINF:-1,DAZN LaLiga 2
