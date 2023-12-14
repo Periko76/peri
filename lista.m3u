@@ -1,4 +1,4 @@
-8#EXTM3U
+#EXTM3U
 EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Deportes iptv
@@ -87,7 +87,7 @@ http://88.11.244.192:8001/1:0:19:750F:420:1:C00000:0:0:0:
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/ZA8_E2WKIwhi92JmsOdhMQ/1702531012///76/cmaf/r12_mlaliga/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/7fLxlTry1d3ToaZl-RV3Uw/1702617216///76/cmaf/r12_mlaliga/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -95,7 +95,7 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/ZA8_E2WKIwhi92JmsOdhMQ/1702531
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/HbbwT9UQxw60efv6KVWFPA/1702530827///87/cmaf/r12_mcampeones/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/esrNAnF2_TELsrl3nX8XtA/1702617117///87/cmaf/r12_mcampeones/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -103,7 +103,7 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/HbbwT9UQxw60efv6KVWFPA/1702530
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/raY9X5woarpamoqc9OR9fQ/1702530876///88/cmaf/r12_mcampeones2/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/fgbI7G4jcBollHcbyyNFYw/1702617165///88/cmaf/r12_mcampeones2/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
