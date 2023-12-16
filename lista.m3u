@@ -17,7 +17,7 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/ssMHoE3n8ocft6xrQDYq2Q/1702803
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://65.109.111.120:8080/live/JimaraDirecto/uVaEYpQRJdUw/61047.ts
 
-EXTINF:-1,LaLiga tv Bar
+#EXTINF:-1,LaLiga tv Bar
 http://netse.es:8080/play/CdWx3IHPBFEIcgtZNw4UrgEv457sThCUEs6W5ynUMDM
 
 #EXTINF:-1,DAZN LaLiga 2
