@@ -32,7 +32,7 @@ http://88.11.244.192:8001/1:0:19:7853:41a:1:c00000:0:0:0:
 
 #EXTINF:-1,M+ Cine
 #EXTVLCOPT:program=29978
-http://88.11.244.192:8001/1:0:19:7539:426:1:c00000:0:0:0:
+http://flbl1.112421.net:8082/323624/mpegts?token=35CA3C2DB9310FE2314B663D6306C819
 
 #EXTINF:-1,M+ Deportes 2
 #EXTVLCOPT:program=29999
@@ -44,15 +44,15 @@ http://88.11.244.192:8001/1:0:1:778f:424:1:c00000:0:0:0
 
 #EXTINF:-1,M+ Drama
 #EXTVLCOPT:program=29993
-http://88.11.244.192:8001/1:0:19:750b:420:1:c00000:0:0:0:
+http://flbl1.112421.net:8082/323622/mpegts?token=35CA3C2DB9310FE2314B663D6306C819
 
 #EXTINF:-1,M+ Comedia
 #EXTVLCOPT:program=29992
-http://88.11.244.192:8001/1:0:19:7857:41a:1:c00000:0:0:0:
+http://flbl1.112421.net:8082/323621/mpegts?token=35CA3C2DB9310FE2314B663D6306C819
 
 #EXTINF:-1,M+ Acción
 #EXTVLCOPT:program=29990
-http://88.11.244.192:8001/1:0:19:7509:420:1:c00000:0:0:0:
+http://flbl1.112421.net:8082/323619/mpegts?token=35CA3C2DB9310FE2314B663D6306C819
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
