@@ -1027,7 +1027,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat
 #KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #EXTVLCOPT:http-referrer=http://vavoo.to/
-http://sintapujos.ddns.net:8096/Videos/b7e40842-a4ed-08b1-0602-e123f85d4756/stream?static=true
+http://pichichu.ddns.net:8098/videos/2f292512-e74d-f845-473a-c57d87a93e15/main.m3u8?DeviceId=6333a5929801cda0&MediaSourceId=2f292512e74df845473ac57d87a93e15&VideoCodec=h264,h264&AudioCodec=aac,mp3&AudioStreamIndex=1&VideoBitrate=186282667&AudioBitrate=384000&MaxFramerate=25&PlaySessionId=03845e29515e4e51bd549b7368eafb3f&api_key=e236c89e44e34a1d8ab12e80638d0e80&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&RequireAvc=false&Tag=9999b5e0631ec5744f23a0e82341dc64&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&h264-level=40&h264-videobitdepth=8&h264-profile=high&TranscodeReasons=VideoCodecNotSupported,%20AudioCodecNotSupported
 
 EXTINF:-1,Película Oppenheimer
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
