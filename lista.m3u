@@ -1037,3 +1037,11 @@ EXTINF:-1,Película Oppenheimer
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 http://sintapujos.ddns.net:8096/Videos/954a9d04-33de-9162-e39f-86852cc069bc/stream?static=true
 
+#EXTINF:-1,Película Indiana Jones 
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://pichichu.ddns.net:8098/videos/65cc2c51-2d2b-e814-b791-f3d4a4cc08eb/master.m3u8?DeviceId=6333a5929801cda0&MediaSourceId=65cc2c512d2be814b791f3d4a4cc08eb&VideoCodec=h264&AudioCodec=aac,mp3&AudioStreamIndex=1&VideoBitrate=239616000&AudioBitrate=384000&MaxFramerate=23.976025&PlaySessionId=63cb2c7b52fd44e395a05eeed23a1855&api_key=e236c89e44e34a1d8ab12e80638d0e80&TranscodingMaxAudioChannels=2&RequireAvc=false&Tag=e2414a73bbf08ede0bde3bcbf1e29988&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&hevc-level=150&hevc-videobitdepth=10&hevc-profile=main10&TranscodeReasons=VideoCodecNotSupported,%20AudioCodecNotSupported
+
