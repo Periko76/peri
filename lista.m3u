@@ -7,7 +7,7 @@ EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={'61e9a16fd7fa4679cb51c81fcaa8729f':'92999f97ff4ee6ec52a60d490fb3f14c'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/U1ILlBv1sSOZTj3tToh6qg/1702725647///75/cmaf/r12_mlaliga2/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/ssMHoE3n8ocft6xrQDYq2Q/1702803049///75/cmaf/r12_mlaliga2/dash_high.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Deportes iptv
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -95,7 +95,7 @@ http://88.11.244.192:8001/1:0:19:750F:420:1:C00000:0:0:0:
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/bDcnwN61A1Ciw_EAyLw_uw/1702712999///76/cmaf/r12_mlaliga/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/9Yyb42KhZb3sURPeQX-e_A/1702803006///76/cmaf/r12_mlaliga/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -103,7 +103,7 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/bDcnwN61A1Ciw_EAyLw_uw/1702712
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/OUmLE3KGMbuZhdElu0e_GA/1702713026///87/cmaf/r12_mcampeones/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/6-K7Jh6FAXMGaAv8So0Bbg/1702803087///87/cmaf/r12_mcampeones/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -111,7 +111,7 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/OUmLE3KGMbuZhdElu0e_GA/1702713
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/fgbI7G4jcBollHcbyyNFYw/1702617165///88/cmaf/r12_mcampeones2/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/lKJbMOhJJ5rXKQ0Kx3Yqow/1702803113///88/cmaf/r12_mcampeones2/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
