@@ -1,14 +1,6 @@
 #EXTM3U
 EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1,M+ Deportes 4
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://panelprogeniusingeniero.pro:8080/live/SpainVIpGeonati@Reshare@Vip/R2BNnMgaamgc/199470.ts
-
 #EXTINF:-1, M+ LaLiga Tv 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -28,27 +20,9 @@ http://65.109.111.120:8080/live/JimaraDirecto/uVaEYpQRJdUw/61047.ts
 EXTINF:-1,LaLiga tv Bar
 http://netse.es:8080/play/CdWx3IHPBFEIcgtZNw4UrgEv457sThCUEs6W5ynUMDM
 
-EXTINF:-1,DAZN LaLiga 2
-http://88.11.244.192:8001/1:0:1:7691:41E:1:C00000:0:0:0:
-
-EXTINF:-1,prueba
-http://88.11.244.192:8001/web/stream.m3u?ref=1:0:19:7539:426:1:C00000:0:0:0:&name=prueba
-
-EXTINF:-1,M+ LaLiga Tv 2
-#EXTVLCOPT:program=29981
-http://88.11.244.192:8001/1:0:19:7853:41a:1:c00000:0:0:0:
-
 #EXTINF:-1,M+ Cine
 #EXTVLCOPT:program=29978
 http://flbl1.112421.net:8082/323624/mpegts?token=35CA3C2DB9310FE2314B663D6306C819
-
-#EXTINF:-1,M+ Deportes 2
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/255.ts
 
 #EXTINF:-1,M+ Deportes
 #EXTVLCOPT:program=29960
@@ -66,24 +40,6 @@ http://flbl1.112421.net:8082/323621/mpegts?token=35CA3C2DB9310FE2314B663D6306C81
 #EXTVLCOPT:program=29990
 http://flbl1.112421.net:8082/323619/mpegts?token=35CA3C2DB9310FE2314B663D6306C819
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Liga de Campeones
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-acestream:
-http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/193.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ Liga de Campeones 2
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/243.ts
-
-
 #EXTINF:-1,M+ Vamos
 #EXTVLCOPT:program=29918
 http://flbl1.112421.net:8082/337813/mpegts?token=35CA3C2DB9310FE2314B663D6306C819
@@ -97,17 +53,13 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://65.109.111.120:8080/live/JimaraDirecto/uVaEYpQRJdUw/60280.ts
 
-EXTINF:-1,M+ LaLiga TV
-#EXTVLCOPT:program=29967
-http://88.11.244.192:8001/1:0:19:750F:420:1:C00000:0:0:0:
-
 #EXTINF:-1, M+ LaLiga Tv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={'850c1a430396ce4255f3902bf1f4e897':'295b1db977f94dfbba012073901a019b'}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://live12-dash.cdns.cdn.orangetv.orange.es:80/36Nfl3VeIQPhpmX0OgH1vg/1702885177///76/cmaf/r12_mlaliga/dash_high.mpd
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/w-YI3aS-IpDWXMjonl536Q/1702982383///76/cmaf/r12_mlaliga/dash_high.mpd
 
 #EXTINF:-1, M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -140,63 +92,6 @@ http://live12-dash.cdns.cdn.orangetv.orange.es:80/3WqpguLqJUBVShbp-X7Ijw/1702656
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://live12-dash.cdns.cdn.orangetv.orange.es:80/ahW1K3hA_26hzfAptUZZmg/1702530959///90/cmaf/r12_mcampeones4/dash_high.mpd
-
-
-EXTINF:-1, M+ Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=www.kool.to
-http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178077.ts
-
-EXTINF:-1, Dazn LaLiga 2
-#KODIPROP:inputstream.adaptive.manifest_type=ts
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60268.ts
-
-EXTINF:-1,M+ Deportes 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium438/index.m3u8
-
-#EXTINF:-1,M+ Deportes 3
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/256.ts
-
-#EXTINF:-1, DAZN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium447/index.m3u8
-
-#EXTINF:-1, DAZN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium448/index.m3u8
-
-EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR LIGA DE CAMPEONES HD 1080P (ORANGE)
-http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt7PCKR0GuFsTZrM-SfVp6Fl
-
-EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR Plus+ Hd
-http://netse.es:8080/play/pGdkcF7AljcWLnX2v1_sXQ40Fhw3Rb97fhpOiLVBOt57TLUYgbm_h-oSvgnY0Cm5
-
-#EXTINF:-1,Movistar Plus+
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/19.ts
-
-EXTINF:-1,M+ Vamos 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c067cb8d7357499f94599a607b85f9d3:da6ae5a046a56ee684fa8359dbe0c1fd
-#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0
-http://panelprogeniusingeniero.pro:8080/live/SpainVIpGeonati@Reshare@Vip/R2BNnMgaamgc/61277.ts
 
 EXTINF:-1,M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,12 +131,6 @@ EXTINF:-1,M+ Liga de Campeones
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60285.ts
-
-
-EXTINF:-1,M+ Liga de Campeones 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium4/index.m3u8
 
 EXTINF:-1,M+ Liga de Campeones 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
@@ -290,20 +179,10 @@ EXTINF:-1,M+Campeones Hbomax
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/36488/master.mpd&img=aHR0cHM6Ly9hcnQtZ2FsbGVyeS1sYXRhbS5hcGkuaGJvLmNvbS9pbWFnZXMvR1pTWGxGd0VpUXNNcnd3RUFBQkdCL3RpbGVidXJuZWRpbj8mc2l6ZT0xOTIweDEwODAmY29tcHJlc3Npb249aGlndA==
 
-EXTINF:-1,M+ Deportes pruebas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium436/index.m3u8
-
 EXTINF:-1,M+ Laliga tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/60236.ts
-
-EXTINF:-1,M+ Liga de Campeones
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium435/index.m3u8
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",M+ LaLiga Tv acestream
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -329,34 +208,10 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900738400489502/unknown.png" group-title="Deportes",M+ Liga de Campeones
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/242406
-
 EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Liga de Campeones acestream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plu" group-title="Deportes",Prueba 
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec2846d2c0e04531be5100e0c4c7decd":"f28fd5016a9117604330220c0ad086aa"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://flbl1.112421.net:8082/3575728/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900738400489502/unknown.png" group-title="Deportes",M+ Deportes
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/151682
 
 EXTINF:-1 tvg-id="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Deportes",M+ Vamos acestream
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -372,7 +227,7 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #KODIPROP:inputstream.adaptive.license_key={"3a2a0471e1bb5724af7a4dbc92dc4cd8":"dc8a07e8af240cb2e1698c652d8fd1d2","13623400d2615f5087923f6a6ab317f5":"738bed5176f4f80eac25269df3bcb1d3","d7226638608757ab8977bd66f5aa3dbe":"7c179e0593e9c7cc1905262952eec399"}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=dalvik
-http://mos.snipers.one:8880/live/Xexuinter/71YGEevrcR/145351.ts
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo.png" group-title="Deportes",Astro Bein 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -381,7 +236,6 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
-
 
 EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M+ Deportes " ch-number="68" , M+ Deportes Acestream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -988,26 +842,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
-
-EXTINF:-1, Movistar Plus+
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-http://102.129.200.178:8080/live/JimaraDirecto/uVaEYpQRJdUw/61054.ts
-
-EXTINF:-1, M+ Vamos
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/151640
-
-EXTINF:-1, M+ Deportes 
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f18c39b70f8146d9a79e9dc0c329464d":"646fd34f890a5cdb655bf9a97af06d47"}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://flbl1.112421.net:8082/323634/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
 
 EXTINF:-1, M+ LaLiga Tv
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
