@@ -1,9 +1,6 @@
 #EXTM3U
 EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1, M+ LaLiga Tv 2
-
-
 #EXTINF:-1,M+ Cine
 #EXTVLCOPT:program=29978
 http://flbl1.112421.net:8082/323624/mpegts?token=35CA3C2DB9310FE2314B663D6306C819
